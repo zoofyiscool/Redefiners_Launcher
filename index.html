@@ -14,29 +14,32 @@
                 background-color: white;
             }
             
-              ul {
+            ul {
               list-style-type: none;
               margin: 0;
               padding: 0;
-              width: 200px;
-              background-color: #f1f1f1;
+              overflow: hidden;
+              background-color: #333;
+            }
+
+            li {
+              float: left;
             }
 
             li a {
               display: block;
-              color: #000;
-              padding: 8px 16px;
+              color: white;
+              text-align: center;
+              padding: 14px 16px;
               text-decoration: none;
             }
 
-            li a.active {
-              background-color: #4CAF50;
-              color: white;
+            li a:hover:not(.active) {
+              background-color: #111;
             }
 
-            li a:hover:not(.active) {
-              background-color: #555;
-              color: white;
+            .active {
+              background-color: #4CAF50;
             }
         </style>
     </head>
