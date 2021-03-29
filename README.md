@@ -1,3 +1,3 @@
 # Redefiners_Launcher
 
-A program to launch games.
+A program to launch games. (WIP)
