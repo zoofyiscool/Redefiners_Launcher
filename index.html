@@ -11,16 +11,41 @@
             <meta content="#cc6699" data-react-helmet="true" name="theme-color">
         <style>
             body { 
-                background-color: #fffafa;
+                background-color: white;
+            }
+            
+              ul {
+              list-style-type: none;
+              margin: 0;
+              padding: 0;
+              width: 200px;
+              background-color: #f1f1f1;
+            }
+
+            li a {
+              display: block;
+              color: #000;
+              padding: 8px 16px;
+              text-decoration: none;
+            }
+
+            li a.active {
+              background-color: #4CAF50;
+              color: white;
+            }
+
+            li a:hover:not(.active) {
+              background-color: #555;
+              color: white;
             }
         </style>
     </head>
 
     <body>
         <!--Navigation Bar-->
-        <div class="topnav">
-          <a class="active" href="index.html">Home</a>
-          </div> 
-          <h1> Redefiners Launcher </h1>
+        <ul>
+          <li><a class="active" href="index.html">Home</a></li>
+         <!--<li><a href="download.html">Download</a></li>-->
+        </ul>
     </body>
 </html>
