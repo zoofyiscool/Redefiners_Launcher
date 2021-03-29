@@ -1,0 +1,11 @@
+C:\Users\Aventis Tech\source\repos\Redefiners Games Launcher\obj\Debug\Redefiners_Games_Launcher.Form1.resources
+C:\Users\Aventis Tech\source\repos\Redefiners Games Launcher\obj\Debug\Redefiners_Games_Launcher.Properties.Resources.resources
+C:\Users\Aventis Tech\source\repos\Redefiners Games Launcher\obj\Debug\Redefiners Games Launcher.csproj.GenerateResource.cache
+C:\Users\Aventis Tech\source\repos\Redefiners Games Launcher\obj\Debug\Redefiners Games Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Aventis Tech\source\repos\Redefiners Games Launcher\bin\Debug\Redefiners Games Launcher.exe.config
+C:\Users\Aventis Tech\source\repos\Redefiners Games Launcher\bin\Debug\Redefiners Games Launcher.exe
+C:\Users\Aventis Tech\source\repos\Redefiners Games Launcher\bin\Debug\Redefiners Games Launcher.pdb
+C:\Users\Aventis Tech\source\repos\Redefiners Games Launcher\obj\Debug\Redefiners Games Launcher.exe
+C:\Users\Aventis Tech\source\repos\Redefiners Games Launcher\obj\Debug\Redefiners Games Launcher.pdb
+C:\Users\Aventis Tech\source\repos\Redefiners Games Launcher\obj\Debug\Redefiners Games Launcher.csprojAssemblyReference.cache
+C:\Users\Aventis Tech\source\repos\Redefiners Games Launcher\obj\Debug\Redefiners_Games_Launcher.Register0Form.resources
